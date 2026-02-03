@@ -102,7 +102,7 @@ header h1 {
   }
 }
 
-.subject {
+.title {
     opacity: 0;
     animation: gentleIn 0.6s ease-in-out forwards;
     animation-delay: 1s;
